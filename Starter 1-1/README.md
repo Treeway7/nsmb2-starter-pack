@@ -8,8 +8,18 @@ To pick a different starter level, rename one to `1-1.sarc` and insert it into C
 
 ### Simple (Default)
 
+A plain testing area.
+
+![Simple Starter Level](https://github.com/Treeway7/nsmb2-templates/blob/main/Starter%201-1/img/Simple.png?raw=true)
+
 ### Simple With Power Ups
 
-A simple powerup testing area.
+A powerup testing area.
+
+![Simple With Power Ups Starter Level](https://github.com/Treeway7/nsmb2-templates/blob/main/Starter%201-1/img/Simple%20With%20Power%20Ups.png?raw=true)
 
 ### Liquid Death
+
+A big field with lava. Blocks are placed where the lava's sprite will cut off.
+
+![Liquid Death Starter Level](https://github.com/Treeway7/nsmb2-templates/blob/main/Starter%201-1/img/Liquid%20Death.png?raw=true)
